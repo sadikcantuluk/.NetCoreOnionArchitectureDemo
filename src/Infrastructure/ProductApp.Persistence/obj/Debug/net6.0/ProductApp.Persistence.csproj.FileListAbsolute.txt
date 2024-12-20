@@ -1,0 +1,17 @@
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\bin\Debug\net6.0\ProductApp.Persistence.deps.json
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\bin\Debug\net6.0\ProductApp.Persistence.runtimeconfig.json
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\bin\Debug\net6.0\ProductApp.Persistence.dll
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\bin\Debug\net6.0\ProductApp.Persistence.pdb
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\bin\Debug\net6.0\ProductApp.Domain.dll
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\bin\Debug\net6.0\ProductApp.Domain.pdb
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ProductApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ProductApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ProductApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ProductApp.Persistence.AssemblyInfo.cs
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ProductApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ProductA.CA358E05.Up2Date
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ProductApp.Persistence.dll
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\refint\ProductApp.Persistence.dll
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ProductApp.Persistence.pdb
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ProductApp.Persistence.genruntimeconfig.cache
+C:\Users\sadik\OneDrive\Masaüstü\Yeni klasör\ProductApp\src\Infrastructure\ProductApp.Infrastructure\obj\Debug\net6.0\ref\ProductApp.Persistence.dll
